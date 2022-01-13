@@ -1,0 +1,1 @@
+﻿https://docs.microsoft.com/en-us/troubleshoot/dotnet/csharp/read-write-text-file

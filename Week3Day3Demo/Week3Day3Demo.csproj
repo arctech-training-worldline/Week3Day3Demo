@@ -50,6 +50,8 @@
     <None Include="App.config" />
     <None Include="documents\Read from and write to a text file by Visual C# - C# _ Microsoft Docs_NoCopy.pdf" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="documents\Url.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
