@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StreamWriterFileSample.cs" />
+    <Compile Include="WriteAndReadSample.cs" />
+    <Compile Include="WriteAndReadSampleDifficultFormat.cs" />
+    <Compile Include="WriteAndReadSampleSimpleFormat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
